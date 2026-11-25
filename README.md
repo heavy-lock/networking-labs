@@ -30,7 +30,7 @@ Language links are provided directly inside each laboratory README, allowing you
 
 | Article | Topic | Lab |
 |---|---|---|
-| [Understanding the TCP/IP Model](PASTE_ARTICLE_URL_HERE) | TCP/IP model, encapsulation, IP addresses, ports, TCP and UDP | [TCP/IP Lab](tcpip/README.md) |
+| [Understanding the TCP/IP Model](https://dev.to/heavy-lock/understanding-the-tcpip-model-how-do-machines-communicate-over-a-network-43d) | TCP/IP model, encapsulation, IP addresses, ports, TCP and UDP | [TCP/IP Lab](tcpip/README.md) |
 
 **How to read this table:**
 
